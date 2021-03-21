@@ -1,0 +1,103 @@
+---
+group_count: 23
+atr1_unknown: 0
+entries:
+  Shout_Zelda_Text010:
+    contents:
+      - text: "伽農的整個身體都被怨念覆加住了……\n在這種情況下，任何攻擊都無法傷害到它。"
+  Shout_Zelda_Text020:
+    contents:
+      - text: "我去抑制那些怨念……雖然我力量微薄，\n只能支撐一會……請你瞄準发光的地方射箭。"
+  Shout_Zelda_Text021:
+    contents:
+      - text: 林可……祝你克敵制勝！
+  Shout_Zelda_Text030:
+    contents:
+      - text: "就是現在！\n我已經抑制住怨念了！"
+  Shout_Zelda_Text031:
+    contents:
+      - text: 林可，就是現在！
+  Shout_Zelda_Text032:
+    contents:
+      - text: 就是現在！
+  Shout_Zelda_Text033:
+    contents:
+      - text: 現在機會來了！
+  Shout_Zelda_Text034:
+    contents:
+      - text: 現在機會來了！快！
+  Shout_Zelda_Text035:
+    contents:
+      - text: 我已經抑制住怨念了！
+  Shout_Zelda_Text036:
+    contents:
+      - text: 攻擊发光的地方！
+  Shout_Zelda_Text037:
+    contents:
+      - text: 請瞄準发光的地方！
+  Shout_Zelda_Text038:
+    contents:
+      - text: 請射擊发光的地方！
+  Shout_Zelda_Text039:
+    contents:
+      - text: "林可！\n瞄準发光的地方！"
+  Shout_Zelda_Text040:
+    contents:
+      - text: "對不起……\n我已經……撐不住了……"
+  Shout_Zelda_Text041:
+    contents:
+      - text: 我無法……長時間抑制怨念……
+  Shout_Zelda_Text042:
+    contents:
+      - text: 請……快一點……
+  Shout_Zelda_Text050:
+    contents:
+      - text: " "
+  Shout_Zelda_Text051:
+    contents:
+      - text: " "
+  Shout_Zelda_Text052:
+    contents:
+      - text: " "
+  Shout_Zelda_Text070:
+    contents:
+      - text: "我會再次抑制怨念！\n你做好準備！！"
+  Shout_Zelda_Text071:
+    contents:
+      - text: "林可，你準備好！\n我會再次抑制怨念！"
+  Shout_Zelda_Text072:
+    contents:
+      - text: "做好準備，林可！\n我會再次抑制怨念！"
+  Shout_Zelda_Text080:
+    contents:
+      - text: 伽農的力量減弱了！
+  Shout_Zelda_Text081:
+    contents:
+      - text: 伽農正陷入痛苦之中！
+  Shout_Zelda_Text082:
+    contents:
+      - text: "還差一點了！\n還差一點就能將伽農……！"
+  Shout_Zelda_Text090:
+    contents:
+      - text: "林可！\n快看啊……伽農的頭上！"
+  Shout_Zelda_Text091:
+    contents:
+      - text: "那是伽農的核心！\n林可……一切就都拜托你了！"
+  Shout_Zelda_Text100:
+    contents:
+      - text: 要懂得利用伽農的攻擊！
+  Shout_Zelda_Text101:
+    contents:
+      - text: "林可……\n要利用氣流！"
+  Shout_Zelda_Text104:
+    contents:
+      - text: 從空中用弓箭給它最後一擊！
+  Shout_Zelda_Text110:
+    contents:
+      - text: "林可！\n最後一擊！"
+  Shout_Zelda_Text111:
+    contents:
+      - text: "林可！\n就是現在！"
+  Shout_Zelda_Text112:
+    contents:
+      - text: "林可！\n打倒伽農！"

@@ -1,0 +1,79 @@
+---
+group_count: 17
+atr1_unknown: 0
+entries:
+  talk000:
+    contents:
+      - text: 小心那家夥的大劍！
+  talk010:
+    contents:
+      - text: 幹得漂亮，妹妹！
+  talk011:
+    contents:
+      - text: 起作用了！
+  talk012:
+    contents:
+      - text: 就是這樣！
+  talk020:
+    contents:
+      - text: 振作一點！
+  talk021:
+    contents:
+      - text: 你沒事吧？
+  talk022:
+    contents:
+      - text: 妹妹！
+  talk030:
+    contents:
+      - text: 這攻擊力也太驚人了。
+  talk031:
+    contents:
+      - text: 你被揍得真慘啊。
+  talk032:
+    contents:
+      - text: 你可別再……被剛才的攻擊打中了啊！
+  talk040:
+    contents:
+      - text: "就是現在！\n一鼓作氣上吧！"
+  talk041:
+    contents:
+      - text: 好！幹掉它！
+  talk042:
+    contents:
+      - text: 機會來了，妹妹！
+  talk050:
+    contents:
+      - text: 不趕快恢覆體力就糟了！
+  talk051:
+    contents:
+      - text: 喂！這樣下去你可要完了！？
+  talk052:
+    contents:
+      - text: 不管做什麽都行！趕快恢覆！
+  talk060:
+    contents:
+      - text: "注意火球！\n那玩意很危險！"
+  talk070:
+    contents:
+      - text: 厲害！
+  talk071:
+    contents:
+      - text: 妹妹！真有你的！
+  talk072:
+    contents:
+      - text: 不錯，妹妹！
+  talk080:
+    contents:
+      - text: 普通攻擊現在對那家夥沒用！
+  talk081:
+    contents:
+      - text: 注意看它放出火球前的動作！
+  talk082:
+    contents:
+      - text: 讓它把炸彈吸進去怎麽樣？
+  talk110:
+    contents:
+      - text: 嗚噢！！
+  talk130:
+    contents:
+      - text: 你隨時都可以使用達爾克爾的守護！

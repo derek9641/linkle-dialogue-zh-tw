@@ -1,0 +1,79 @@
+---
+group_count: 19
+atr1_unknown: 0
+entries:
+  talk000:
+    contents:
+      - text: "小心那槍！\n它的射程很遠！"
+  talk010:
+    contents:
+      - text: 成功了！
+  talk011:
+    contents:
+      - text: 起作用了！
+  talk012:
+    contents:
+      - text: 就是這樣！
+  talk020:
+    contents:
+      - text: 啊……振作一點！
+  talk021:
+    contents:
+      - text: 振作一點！
+  talk022:
+    contents:
+      - text: 你沒事吧！？
+  talk030:
+    contents:
+      - text: 好驚人的攻擊力……！
+  talk031:
+    contents:
+      - text: "剛才那一下……\n一定很不好受吧……"
+  talk032:
+    contents:
+      - text: "像剛才那樣的攻擊……\n下次可要躲開啊……"
+  talk040:
+    contents:
+      - text: 現在一鼓作氣，攻擊！
+  talk041:
+    contents:
+      - text: 現在正是機會！
+  talk042:
+    contents:
+      - text: 它變弱了……快！
+  talk050:
+    contents:
+      - text: 再不恢覆體力的話……
+  talk051:
+    contents:
+      - text: 再這樣下去就要被打敗了……
+  talk052:
+    contents:
+      - text: 無法……恢覆體力嗎？
+  talk060:
+    contents:
+      - text: "小心……\n可供站立的地方不多了！"
+  talk070:
+    contents:
+      - text: 感覺不錯！
+  talk071:
+    contents:
+      - text: 你好厲害，林可！
+  talk072:
+    contents:
+      - text: 幹得好！
+  talk080:
+    contents:
+      - text: "就沒有辦法……\n防住那個冰彈嗎？"
+  talk081:
+    contents:
+      - text: "就沒有辦法……\n破壞那個冰彈嗎？"
+  talk082:
+    contents:
+      - text: "要是能夠讓那個冰彈停下來……\n再把它反射回去的話……！"
+  talk100:
+    contents:
+      - text: 我來保護你……
+  talk131:
+    contents:
+      - text: 你隨時都可以使用……米法的祈福……

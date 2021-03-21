@@ -1,0 +1,82 @@
+---
+group_count: 19
+atr1_unknown: 0
+entries:
+  talk000:
+    contents:
+      - text: "那家夥的動作很快！\n不要被迷惑了！"
+  talk010:
+    contents:
+      - text: 很好！林可！
+  talk011:
+    contents:
+      - text: 起作用了！
+  talk012:
+    contents:
+      - text: 就這樣！
+  talk020:
+    contents:
+      - text: 唔！
+  talk021:
+    contents:
+      - text: 你沒事吧？
+  talk022:
+    contents:
+      - text: 林可！
+  talk030:
+    contents:
+      - text: 好強的攻擊力。
+  talk031:
+    contents:
+      - text: 你剛才承受了很重的一擊啊……
+  talk032:
+    contents:
+      - text: "下次可別……\n再被剛才那樣的攻擊打中了啊！"
+  talk040:
+    contents:
+      - text: "機會來了！\n連續攻擊！"
+  talk041:
+    contents:
+      - text: 好！就趁現在！
+  talk042:
+    contents:
+      - text: 好了！全力攻擊！
+  talk050:
+    contents:
+      - text: 無法恢覆體力嗎！？
+  talk051:
+    contents:
+      - text: 這樣下去你要被打倒了！？
+  talk052:
+    contents:
+      - text: 快趁機恢覆體力！
+  talk060:
+    contents:
+      - text: "小心雷電！\n不然下場就會和我一樣！"
+  talk070:
+    contents:
+      - text: 幹得好！
+  talk071:
+    contents:
+      - text: 很厲害嘛！
+  talk072:
+    contents:
+      - text: 時機把握得不錯！
+  talk080:
+    contents:
+      - text: "那面盾牌……\n可以擋下所有的普通攻擊！"
+  talk081:
+    contents:
+      - text: 讓那家夥也嘗嘗自己雷電的滋味！
+  talk082:
+    contents:
+      - text: 你能把鐵柱搬到那家夥的附近嗎！？
+  talk101:
+    contents:
+      - text: 哈啊……
+  talk110:
+    contents:
+      - text: 哈！！
+  talk130:
+    contents:
+      - text: 你隨時都可以釋放烏爾波紮的憤怒！

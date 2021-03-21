@@ -1,0 +1,256 @@
+---
+group_count: 23
+atr1_unknown: 0
+entries:
+  Approach_00:
+    contents:
+      - control:
+          kind: animation
+          name: CustomApproach00
+      - text: 我們靠過去！
+  Approach_01:
+    contents:
+      - control:
+          kind: animation
+          name: CustomApproach01
+      - text: 我們上！
+  Approach_02:
+    contents:
+      - control:
+          kind: animation
+          name: CustomApproach02
+      - text: 林可！使用電箭！
+  Approach_03:
+    contents:
+      - control:
+          kind: animation
+          name: CustomApproach03
+      - text: 你身上有電箭吧！？
+  Approach_04:
+    contents:
+      - control:
+          kind: animation
+          name: CustomApproach04
+      - text: 這些電箭就交給你了！
+  Jump_00:
+    contents:
+      - control:
+          kind: animation
+          name: CustomJump00
+      - text: 飛啊——！！
+  Jump_01:
+    contents:
+      - control:
+          kind: animation
+          name: CustomJump01
+      - text: 上去——！！
+  Jump_02:
+    contents:
+      - control:
+          kind: animation
+          name: CustomJump02
+      - text: 上啊——！！
+  Jump_03:
+    contents:
+      - control:
+          kind: animation
+          name: CustomJump03
+      - text: 跳上去，林可！！
+  Jump_04:
+    contents:
+      - control:
+          kind: animation
+          name: CustomJump04
+      - text: 爬上去——！！
+  Jump_05:
+    contents:
+      - control:
+          kind: animation
+          name: CustomJump05
+      - text: 好了，上啊——！
+  Jump_06:
+    contents:
+      - control:
+          kind: animation
+          name: CustomJump06
+      - text: 好，上啊——！
+  Jump_07:
+    contents:
+      - control:
+          kind: animation
+          name: CustomJump07
+      - text: 好了，飛啊——！
+  Jump_08:
+    contents:
+      - control:
+          kind: animation
+          name: CustomJump08
+      - text: 好，爬上去——！
+  Leave_00:
+    contents:
+      - control:
+          kind: animation
+          name: CustomLeave00
+      - text: 伺機而動！
+  Leave_01:
+    contents:
+      - control:
+          kind: animation
+          name: CustomLeave01
+      - text: 要是能讓那冰塊消失的話……
+  Leave_02:
+    contents:
+      - control:
+          kind: animation
+          name: CustomLeave02
+      - text: 打碎那個冰塊。
+  Leave_03:
+    contents:
+      - control:
+          kind: animation
+          name: CustomLeave03
+      - text: 這些礙事的冰塊！
+  Leave_04:
+    contents:
+      - control:
+          kind: animation
+          name: CustomLeave04
+      - text: 就沒有辦法打碎冰塊嗎？
+  Restart_00:
+    contents:
+      - control:
+          kind: animation
+          name: CustomRestart00
+      - text: 林可！我們上！
+  Restart_01:
+    contents:
+      - control:
+          kind: animation
+          name: CustomRestart01
+      - text: 好，沖過去！
+  Restart_02:
+    contents:
+      - control:
+          kind: animation
+          name: CustomRestart02
+      - text: 可別被我甩出去啊！
+  Restart_03:
+    contents:
+      - control:
+          kind: animation
+          name: CustomRestart03
+      - text: 給我抓緊了！
+  Restart_04:
+    contents:
+      - control:
+          kind: animation
+          name: CustomRestart04
+      - text: 再來一次！
+  Return_00:
+    contents:
+      - control:
+          kind: animation
+          name: CustomReturn00
+      - text: 接下來可別溺水了啊！
+  Return_01:
+    contents:
+      - control:
+          kind: animation
+          name: CustomReturn01
+      - text: 就算溺水我也會來救你的卓！
+  Return_02:
+    contents:
+      - control:
+          kind: animation
+          name: CustomReturn02
+      - text: 不管幾次我都會來救你的卓！
+  Return_03:
+    contents:
+      - control:
+          kind: animation
+          name: CustomReturn03
+      - text: 重新再來！
+  Return_04:
+    contents:
+      - control:
+          kind: animation
+          name: CustomReturn04
+      - text: 還好及時趕上了……
+  Return_05:
+    contents:
+      - control:
+          kind: animation
+          name: CustomReturn05
+      - text: 你沒事吧，林可？
+  Return_06:
+    contents:
+      - control:
+          kind: animation
+          name: CustomReturn06
+      - text: 不管多少次我都會來救你的！
+  Return_07:
+    contents:
+      - control:
+          kind: animation
+          name: CustomReturn07
+      - text: 你沒事吧，林可！
+  Success_00:
+    contents:
+      - control:
+          kind: animation
+          name: CustomSuccess00
+      - text: 林可！你最棒了！！
+  Success_01:
+    contents:
+      - control:
+          kind: animation
+          name: CustomSuccess01
+      - text: 林可！你成功了！！
+  Success_02:
+    contents:
+      - control:
+          kind: animation
+          name: CustomSuccess02
+      - text: 林可！好樣的！！
+  Success_03:
+    contents:
+      - control:
+          kind: animation
+          name: CustomSuccess03
+      - text: 林可！你好厲害！！
+  Success_04:
+    contents:
+      - control:
+          kind: animation
+          name: CustomSuccess04
+      - text: 很好！林可！！
+  Worry_00:
+    contents:
+      - control:
+          kind: animation
+          name: CustomWorry00
+      - text: 你沒事吧，林可？
+  Worry_01:
+    contents:
+      - control:
+          kind: animation
+          name: CustomWorry01
+      - text: 快上來！
+  Worry_02:
+    contents:
+      - control:
+          kind: animation
+          name: CustomWorry02
+      - text: 你沒受傷吧！？
+  Worry_03:
+    contents:
+      - control:
+          kind: animation
+          name: CustomWorry03
+      - text: 振作一點！
+  Worry_04:
+    contents:
+      - control:
+          kind: animation
+          name: CustomWorry04
+      - text: 不要放棄！
